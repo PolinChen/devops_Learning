@@ -25,3 +25,8 @@
 
 ## NMONs 和 NMON analyzer 功能差異如何？
 >NMONs 除了兼容NMONanalyzer 的分析圖表外，另外針對JFS、MPIO、TOP PID 的記錄進行可視化分析。同時可以把不同系統多台的主機產生的nmon log 進行關聯解析； 無需人工進行轉換， 更有效率的解讀nmon log 的深層的意義。  
+
+
+![alt text][logo]
+
+[logo]: https://hackpad-attachments.imgix.net/turboteam.hackpad.com_u3H8jjdgMWx_p.527885_1466593934326_螢幕快照%202016-06-22%20上午10.57.15.png?fit=max&w=882  
