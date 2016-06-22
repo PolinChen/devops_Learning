@@ -1,6 +1,7 @@
 # Git_Learning
 撰寫git的學習心得
 
+
 ## 在git hub 上create new project
 
 
@@ -12,7 +13,6 @@ git clone git@github.com:PolinChen/devops_Learning.git
 
 >Cloning into 'devops_Learning'...
 >The authenticity of host 'github.com (192.30.252.122)' can't be established.
-
 >RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
 >Are you sure you want to continue connecting (yes/no)? yes  
 >Warning: Permanently added 'github.com,192.30.252.122' (RSA) to the list of known hosts.  
