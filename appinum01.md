@@ -11,13 +11,12 @@
 
 以下內容將向您介紹開源，跨平台跨技術的移動UI測試框架Appium，可讓您測試您所選擇的語言自動化。此外，您將看到如何自動對現實世界的應用程序使用案例和學習最佳實踐測試自動化，具有一定的優勢的同時。
 
-您也可以下載使用幻燈片，觀看整個演示文稿[viedo]
+您也可以下載使用[幻燈片]( http://www.slideshare.net/ElizabethHechtel/devops-for-mobile-automate-your-tests-with-appium)
+，觀看整個演示文稿[視頻]
 (https://www.youtube.com/watch?v=rFruZASaaN0&feature=youtu.be)
 的視頻。
 
 
-
-http://www.slideshare.net/ElizabethHechtel/devops-for-mobile-automate-your-tests-with-appium
 o
 
 
