@@ -16,6 +16,20 @@
 (https://www.youtube.com/watch?v=rFruZASaaN0&feature=youtu.be)
 的視頻。
 
+They can't be added directly but you can add an image with a link to the video like this:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+Or, in pure Markdown, but losing the image sizing and border:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/rFruZASaaN0?t=59)
+Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
+
+
+
+
+https://youtu.be/rFruZASaaN0?t=59
 
 
 原始連接[testobject]( https://testobject.com/blog/2016/06/mobile-devops-with-appium.html)
