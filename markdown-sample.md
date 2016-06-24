@@ -7,7 +7,10 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - 教材1 [bitbucket](https://bitbucket.org/tutorials/markdowndemo)
 - 範例一 [good sample](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
 - 範例二)[markitdown](http://www.markitdown.net/markdown)
+- 教材[ghost](https://blog.ghost.org/markdown/)
+
 ## 標題行的常用格式
+
 
 利用＃符號，來定義不同的標題行， 共有6階，範例如下
 
@@ -150,3 +153,5 @@ Use the `printf()` function.
 最後在第九個找到答案
 
 <font color="white">要反白的文字<font>
+
+![m'lady]( https://hackpad-attachments.imgix.net/turboteam.hackpad.com_u3H8jjdgMWx_p.527885_1466593934326_螢幕快照%202016-06-22%20上午10.57.15.png?fit=max&w=882)
