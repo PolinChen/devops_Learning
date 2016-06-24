@@ -11,6 +11,10 @@
 
 以下內容將向您介紹開源，跨平台跨技術的移動UI測試框架Appium，可讓您測試您所選擇的語言自動化。此外，您將看到如何自動對現實世界的應用程序使用案例和學習最佳實踐測試自動化，具有一定的優勢的同時。
 
+Or, in pure Markdown, but losing the image sizing and border:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/rFruZASaaN0)
+
 您也可以下載使用[幻燈片]( http://www.slideshare.net/ElizabethHechtel/devops-for-mobile-automate-your-tests-with-appium) ，觀看整個演示文稿[視頻] (https://www.youtube.com/watch?v=rFruZASaaN0&feature=youtu.be) 的視頻。
 
 原始連接[testobject]( https://testobject.com/blog/2016/06/mobile-devops-with-appium.html)
