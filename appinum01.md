@@ -13,7 +13,10 @@
 
 Or, in pure Markdown, but losing the image sizing and border:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/rFruZASaaN0)
+[![IMAGE ALT TEXT HERE]( https://testobject.com/wp-content/uploads/devops-for-mobile-1024x295.png )] (https://youtu.be/rFruZASaaN0)
+
+
+
 
 您也可以下載使用[幻燈片]( http://www.slideshare.net/ElizabethHechtel/devops-for-mobile-automate-your-tests-with-appium) ，觀看整個演示文稿[視頻] (https://www.youtube.com/watch?v=rFruZASaaN0&feature=youtu.be) 的視頻。
 
