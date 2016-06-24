@@ -21,7 +21,7 @@
 - 高績效團隊員工人數分別為2.2倍更有可能推薦他們的組織作為一個偉大的工作場所。
 - 以精益有效的產品開發方法（例如，拆分工作變成小批量和實施客戶反饋）預測更高的IT性能和更低的部署困難。
 
-- 原始連接[puppet下載](https://puppet.com/resources/white-paper/2016-state-devops-report/thank-you)
+原始連接[puppet下載](https://puppet.com/resources/white-paper/2016-state-devops-report/thank-you)
 
 [logo]:
 https://puppet.com/sites/default/files/inline-images/Puppet-DOR-cover.jpg
