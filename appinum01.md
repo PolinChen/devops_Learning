@@ -15,7 +15,10 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 [![IMAGE ALT TEXT HERE]( https://testobject.com/wp-content/uploads/devops-for-mobile-1024x295.png )] (https://youtu.be/rFruZASaaN0)
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/rFruZASaaN0 )] (https://youtu.be/rFruZASaaN0)
+[![IMAGE ALT TEXT HERE](https://img.youtu.be/rFruZASaaN0 /0.jpg)] (https://youtu.be/rFruZASaaN0)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 
 
