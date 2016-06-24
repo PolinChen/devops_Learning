@@ -1,7 +1,7 @@
-# 了解DevOps的行為如何改變團隊
+# 2016年DevOps 年度報告
 
-## DevOps的報告2016年國家封面
-
+## 學習如何DevOps來改變團隊
+![alt text][logo]
 第五次年度DevOps報告,提供的部署，安全，穩定和員工忠誠度的有（和沒有）組織成功採用​​的DevOps實踐的特寫圖。我們也來看看有多少企業可以節省的DevOps。  
 感謝超過4600多個專業技術人員完成的DevOps年度調查）。在過去的5年中， 我們已經調查了超過25000人，這使得當今的DevOps的最全面的研究。
 
@@ -21,7 +21,7 @@
 - 高績效團隊員工人數分別為2.2倍更有可能推薦他們的組織作為一個偉大的工作場所。
 - 以精益有效的產品開發方法（例如，拆分工作變成小批量和實施客戶反饋）預測更高的IT性能和更低的部署困難。
 
-![alt text][logo]
+
 
 [logo]:
 https://puppet.com/sites/default/files/inline-images/Puppet-DOR-cover.jpg
