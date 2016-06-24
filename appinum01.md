@@ -1,6 +1,6 @@
 # Mobile DevOps: Automate Your Tests with Appium
 
-## 學習如何DevOps來改變團隊
+## 利用Appium 做手機APP 的自動化測試
 
 ![alt text][logo]
 
@@ -17,10 +17,6 @@
 的視頻。
 
 
-o
 
-
-
-原始連接[puppet下載](https://puppet.com/resources/white-paper/2016-state-devops-report/thank-you)
-
+原始連接[testobject]( https://testobject.com/blog/2016/06/mobile-devops-with-appium.html)
 [logo]: https://testobject.com/wp-content/uploads/devops-for-mobile-1024x295.png
