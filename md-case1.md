@@ -1,7 +1,9 @@
 
 原文來源 [商周]( http://www.businesstoday.com.tw/article-content-80408-155555)   
 管理行銷創業
+```
 # 買到一雙不合腳的鞋，你打算穿幾次才放棄？
+```
 ![][cover]
 
 [cover]:http://www.businesstoday.com.tw/images/155555/9FC10E4A-92A6-429F-8883-4A76AD27EF25
