@@ -16,7 +16,9 @@
   - 圖型連結格式：
 ![alt text][logo] 顯示第二次的圖形 ![alt text][logo] + ![][mba]
 
-  - 網上大圖連接:![devops][devops1] ![ci][devops2]
+  - 網上大圖連接:
+    - ![devops][devops1]
+    - ![ci][devops2]
 
   - 圖形大小的調整：原始圖形 ![test](https://github.com/favicon.ico)
   - 使用html格式調整圖形大小 <img style="float; right;" src="https://github.com/favicon.ico" width="96">
