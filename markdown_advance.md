@@ -23,6 +23,20 @@
   - 圖形大小的調整：原始圖形 ![test](https://github.com/favicon.ico)
   - 使用html格式調整圖形大小 <img style="float; right;" src="https://github.com/favicon.ico" width="96">
 
+- mix html
+<dl>
+  <dt>HTML</dt>
+  <dd>http://link.not.processed</dd>
+  <dd>[Link](http://not.processed)</dd>
+</dl>
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">DONATE</a>
+</div>
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+<a href="/blog">VIEW THE BLOG</a>
+</div>
 
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo 標題文字範例二"
