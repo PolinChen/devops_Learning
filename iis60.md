@@ -1,11 +1,18 @@
 # iis 6.0 上的參數設定
 用戶提供的iislog 中的參數中， 沒有time taken 的內容
 
+```
+Software: Microsoft Internet Information Services 6.0
+Version: 1.0
+Date: 2016-06-28 06:05:45
+Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status
+```
 
-> Software: Microsoft Internet Information Services 6.0
-> Version: 1.0
-> Date: 2016-06-28 06:05:45
-> Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status
+## 回答內容
+
+> 目前的iis log 中 有個Time Taken的參數， 是看響應時間， default 是N， 所以沒有收集到， 是否可以更改為Y， 以下是microsoft 的iis log 的說明文件
+> Time Taken time-taken The length of time that the action took, in milliseconds.  N
+
 
 microsoft 上的說明內容
 
