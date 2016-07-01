@@ -8,6 +8,31 @@
  - test21
  - test22
 
+
+```
+total 136
+drwxr-xr-x  21 polinchen  staff   714  7  1 12:39 .
+drwxr-xr-x  10 polinchen  staff   340  6 27 21:28 ..
+drwxr-xr-x  14 polinchen  staff   476  7  1 12:39 .git
+-rw-r--r--   1 polinchen  staff  3671  6 26 09:08 ELK-central.md
+-rw-r--r--   1 polinchen  staff  3647  6 26 08:54 ELK-splunk.md
+-rw-r--r--   1 polinchen  staff  1076  6 22 11:10 LICENSE
+-rw-r--r--   1 polinchen  staff    47  6 22 11:10 README.md
+drwxr-xr-x  13 polinchen  staff   442  6 25 13:37 _site
+-rw-r--r--   1 polinchen  staff  1356  6 24 15:23 appinum01.md
+-rw-r--r--   1 polinchen  staff  4610  6 25 12:15 boston-img.md
+-rw-r--r--   1 polinchen  staff  1561  6 24 10:38 devop_2016.md
+-rw-r--r--   1 polinchen  staff  2665  6 22 19:23 faq.md
+-rw-r--r--   1 polinchen  staff   874  6 22 14:54 git_start.md
+-rw-r--r--   1 polinchen  staff   911  6 29 10:58 iis60.md
+drwxr-xr-x   3 polinchen  staff   102  6 29 10:52 img
+-rw-r--r--   1 polinchen  staff  5420  6 24 21:56 markdown-sample.md
+-rw-r--r--   1 polinchen  staff  1820  6 25 10:29 markdown_advance.md
+-rw-r--r--   1 polinchen  staff  2506  6 25 10:12 md-case1.md
+-rw-r--r--   1 polinchen  staff  2108  7  1 12:38 md-test.md
+-rw-r--r--   1 polinchen  staff  2552  6 23 07:45 top2bi.md
+-rw-r--r--   1 polinchen  staff     0  7  1 12:39 xxx
+```
 > NMONs 大數據分析平台在一個用戶帳號中，可以同時分析128臺不同server的nmon log，並且依據不同的核心系統進行分類和關聯分析，如不同DB server，AP server 之間進行對比分析
 
 ## NMONs+ 可以結合哪些效能log一起進行分析
