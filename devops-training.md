@@ -9,7 +9,7 @@
 - selenium 的培訓和實作
 - appium 的培訓和實作
 - Jira 的培訓和實作
-- montis 的培訓和實作
+- mantis 的培訓和實作
 - monitoring 的培訓和實作
 - docker 的培訓和實作
 - 編輯工具的培訓的實作
