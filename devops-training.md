@@ -3,6 +3,7 @@
 - DevOps 概述
 - git 培訓和實作
 - slack 的培訓和實作
+- svn 培訓和實作
 - trello 的培訓和實作
 - jenkins 培訓的和實作
 - selenium 的培訓和實作
