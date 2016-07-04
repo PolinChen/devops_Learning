@@ -18,6 +18,11 @@ Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-u
 
 ![設定的內容](/img/iislog-status.png)
 
+## iislog 時間差的確認
+
+![時間差的畫面](/img/iislog-8hr.png)
+
+
 microsoft 上的說明內容
 
 
