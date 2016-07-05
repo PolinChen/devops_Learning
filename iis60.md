@@ -13,6 +13,8 @@ Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-u
 > 目前的iis log 中 有個Time Taken的參數， 是看響應時間， default 是N， 所以沒有收集到， 是否可以更改為Y， 以下是microsoft 的iis log 的說明文件
 > Time Taken time-taken The length of time that the action took, in milliseconds.  N
 
+> 目前的iis log 中 有個Time Taken的參數， 是看響應時間， default 是N， 所以沒有收集到， 是否可以更改為Y， 以下是microsoft 的iis log 的說明文件
+
 
 ## microsoft 上的設定畫面
 
