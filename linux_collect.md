@@ -4,8 +4,7 @@
 
 ## linux log server 的系統結構
 
-![設定的內容](/img/linux-ftp.png)
-
+![設定的內容](/img/linux_ftp.png)
 
 ## 收集nmon&top log 的shell script: 
 ```
