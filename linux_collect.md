@@ -1,5 +1,6 @@
 # linux nmon 和 top 的log 收集方案
-利用IBM linux 的nmon 命令和linux 自帶的top 命令收集performance log， 並且利用ftp定時發送log 到 log server 中。
+
+> 利用IBM linux 的nmon 命令和linux 自帶的top 命令收集performance log， 並且利用ftp定時發送log 到 log server 中。
 
 ## linux log server 的系統結構
 
@@ -75,26 +76,3 @@ $ crontab -e
 0 0 * * * /opt/nmons/linux-nmons-collect.sh
 9,19,29,39,49,59 * * * * /opt/nmons/nmons-xfer.sh
 ```
-
-
-
-```
-#!/bin/bash
-
-## microsoft 上的設定畫面
-
-![設定的內容](/img/iislog-status.png)
-
-## iislog 時間差的確認
-
-![時間差的畫面](/img/iislog-8hr.png)
-
-
-microsoft 上的說明內容
-
-
-
-
-[microsoft iis 6.0 說明文件](https://www.microsoft.com/technet/prodtechnol/WindowsServer2003/Library/IIS/676400bc-8969-4aa7-851a-9319490a9bbb.mspx?mfr=true)
-
-
