@@ -9,7 +9,7 @@
 
 ## 收集nmon&top log 的shell script: 
 ```
-$ cat nmon_collect.sh 
+$ cat /opt/nmons/nmons-collect.sh
 #!/bin/bash 
 nmonDir="/opt/nmon"
 nmonTool=/opt/nmon/nmon_linux_x86 
@@ -27,7 +27,9 @@ $nmonTool -f -N -t -s 60 -c $count -m $nmonDir
 
 ## nmon&top log 傳檔程式 
 
+
 ```
+$cat /opt/nmons/nmons-xfer.sh
 #!/bin/bash
 ################################################
 nmonDir="/opt/nmons"
@@ -73,6 +75,6 @@ exit
 ## 定時任務crontab 的設定方式
 ```
 $ crontab -e
-0 0 * * * /opt/nmons/linux-nmons-collect.sh
-9,19,29,39,49,59 * * * * /opt/nmons/nmons-xfer.sh
+0 0 * * * /opt/nmons/nmons-collect.sh		### 每天0點0分啟動收集
+9,19,29,39,49,59 * * * * /opt/nmons/nmons-xfer.sh	### 每小時發送6次
 ```
