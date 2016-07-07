@@ -3,10 +3,10 @@
 
 ## linux log server 的系統結構
 
-![設定的內容](/img/linux_ftp.png)
+![設定的內容](/img/linux-ftp.png)
 
 
-1. 收集nmon&top log 的shell script: 
+## 收集nmon&top log 的shell script: 
 ```
 $ cat nmon_collect.sh 
 #!/bin/bash 
@@ -24,8 +24,9 @@ $nmonTool -f -N -t -s 60 -c $count -m $nmonDir
 
 ```
 
-2.nmon&top log 傳檔程式 
+## nmon&top log 傳檔程式 
 
+```
 #!/bin/bash
 ################################################
 nmonDir="/opt/nmons"
@@ -67,6 +68,18 @@ fi
 
 exit 
 ```
+
+## 定時任務crontab 的設定方式
+```
+$ crontab -e
+0 0 * * * /opt/nmons/linux-nmons-collect.sh
+9,19,29,39,49,59 * * * * /opt/nmons/nmons-xfer.sh
+```
+
+
+
+```
+#!/bin/bash
 
 ## microsoft 上的設定畫面
 
