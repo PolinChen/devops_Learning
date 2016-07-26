@@ -2,6 +2,7 @@
 
 
 ## install nmon in your system
+- download linux nmon
 - sudo cp nmon-bianry to /usr/bin/nmon 
 - mkdir /opt/nmons
 - creaate nmons log collect scripts (v30-nmons-collect.sh)
