@@ -11,6 +11,10 @@
 - check nmon log in ftp server
 
 
+### download linux nmon 
+
+-  [Linux 下載的網址] (http://nmon.sourceforge.net/pmwiki.php?n=Site.Download) 建議下載16e 版本
+
 ### creaate nmons log collect scripts
 
 ```
