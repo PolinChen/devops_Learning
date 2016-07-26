@@ -1,10 +1,20 @@
 # nmon client operation 
 
 
-## mkdir /opt/nmons
+## install nmon in your system
+- sudo cp nmon-bianry to /usr/bin/nmon 
+- mkdir /opt/nmons
+- creaate nmons log collect scripts (v30-nmons-collect.sh)
+- send nmons log to ftp server (v30-nmons-xfer.sh)
+- create crontab for nmon (crontab -e)
+- check nmon log in client
+- check nmon log in ftp server
+
+
+### creaate nmons log collect scripts
 
 ```
-$ cat v30-nmons-collect.sh
+$ cat /opt/nmons/v30-nmons-collect.sh
 #!/bin/bash
 nmonDir="/opt/nmons"
 host=`hostname | awk -F"." '{print $1}'`
@@ -14,7 +24,10 @@ DAY=`date +%Y%m%d`
 exit
 ```
 
+### send nmons log to ftp server
+
 ```
+$ cat /opt/nmons/v30-nmons-xfer.sh
 #!/bin/bash
 ################################################
 ### cp /nmon/today.nmon to 10.5.160.225 /home/ttpoc
@@ -57,9 +70,10 @@ fi
 ```
 
 
-## crontab -l
+### create crontab for nmon (crontab -e)
 
 ```
+## crontab -l
 0 0 * * * /opt/nmons/v30-nmons-collect.sh
 9,19,29,39,49,59 * * * * /opt/nmons/v30-nmons-xfer.sh
 ```
