@@ -78,4 +78,6 @@ fi
 9,19,29,39,49,59 * * * * /opt/nmons/v30-nmons-xfer.sh
 ```
 
+### check the nmon log in client
 
+### check the nmon log in ftp-server
