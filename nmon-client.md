@@ -14,7 +14,7 @@
 
 ### download linux nmon 
 
--  [ Linux nmon 下載的網址] (http://nmon.sourceforge.net/pmwiki.php?n=Site.Download) 建議下載16e 版本
+-  [ Linux nmon 下載的網址] (http://nmon.sourceforge.net/pmwiki.php?n=Site.Download) 建議下載16d 或16e 版本
 
 ### creaate nmons log collect scripts
 
