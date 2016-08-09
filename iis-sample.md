@@ -18,7 +18,7 @@ cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-substatus sc
 sc-bytes cs-bytes time-taken
 ```
 
-## sample iis log for bpm
+## sample iis log for bpm, testbpm
 
 ```
 #Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip 
@@ -30,4 +30,19 @@ cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 ```
 #Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip 
 cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+```
+
+## sample iis log for IDAW2
+
+```
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip 
+cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+```
+
+## sample iis log for IDAP
+
+```
+Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port 
+cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status 
+sc-bytes cs-bytes time-taken
 ```

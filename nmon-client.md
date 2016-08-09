@@ -29,6 +29,15 @@ DAY=`date +%Y%m%d`
 exit
 ```
 
+### 人工啟動v30-nmons-collect.sh
+
+```
+$ cd /opt/nmons
+$ sudo chmod +x v30-nmons-collect.sh
+$ sudo ./v30-nmons-collect.sh
+$ ls -al 
+```
+
 ### send nmons log to ftp server
 
 ```
