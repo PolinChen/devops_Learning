@@ -13,6 +13,10 @@
 - [axibase](http://axibase.com/products/) : END-TO-END REPORTING AND ANALYTICS FOR ENTERPRISE IT
 
 
+- [opstheater](http://opstheater.com/what-is-opstheater) : DevOps + Ops consulting + training
+
+- [olindata](https://www.olindata.com/) Open Source Training & Consulting
+
 ## nmon log analystic
 
 

@@ -1,6 +1,6 @@
 # ELK training material
 
-## elasticsearch
+## slide
 - [Elasticsearch 簡介](http://www.slideshare.net/rueian3/elasticsearch-45855699)
  - ![](https://www.dropbox.com/s/ddjyw78fsewvm3k/elk-db.png?dl=1)
  - ![](https://www.dropbox.com/s/d5y66e2zd8cgp5c/elk-index.png?dl=1)
@@ -13,3 +13,10 @@
 - [DevOps+Docker](http://www.slideshare.net/ChinaNetCloud/devopsdockerqcon2016?qid=382d4e45-c6b6-48ca-9be2-628edd70c4e6&v=&b=&from_search=3) : Dev-Ops与Docker的最佳实践 QCon2016 北京站演讲 
 
 - [git](http://www.slideshare.net/alantsai2007/git-48778340?qid=5cf153cd-fbda-4154-af58-87ac0a87a526&v=&b=&from_search=24) : 工程師必備第一工具 - Git
+
+
+### redis infra
+
+- [ELK+redis](http://motor.blog.51cto.com/729413/1411199)Kibana+Logstash+Elasticsearch+Redis安装部署
+ - ![redis](https://michael.bouvy.net/blog/wp-content/uploads/2013/11/logstach-archi1.png)
+ - ![broker](http://s3.51cto.com/wyfs02/M00/27/7B/wKiom1NzJ3aTDYbsAAFWoFEx8mw012.jpg)
