@@ -45,6 +45,4 @@ image test
 
 - ![](https://hackpad-attachments.imgix.net/turboteam.hackpad.com_P2Bc9gBagUh_p.527884_1472025509338_docker.jpg?fit=max&w=882)
 
-- ![](http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2016/06/02/BostonGlobe.com/BigPicture/Images/05339892.jpg)
-A Lionfish swims at the Two Oceans Aquarium in Cape Town, South Africa. (NIC BOTHMA/EPA)
-
+- ![](https://www.dropbox.com/s/biop3syq4w4siv2/profiler-disk.png?dl=1)
