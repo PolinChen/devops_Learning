@@ -15,8 +15,17 @@
 - [git](http://www.slideshare.net/alantsai2007/git-48778340?qid=5cf153cd-fbda-4154-af58-87ac0a87a526&v=&b=&from_search=24) : 工程師必備第一工具 - Git
 
 
+- [elk stack](http://www.slideshare.net/GlobalLogicUkraine/the-elk-stack-get-to-know-logs-igor-rudyk) : good: The ELK Stack - Get to Know Logs
+
+- [centorizing log](https://sematext.com/blog/2013/09/24/presentation-on-centralizing-logs/):  with Syslog, LogStash, Elasticsearch, Kibana, and friends,
+
+
 ### redis infra
 
 - [ELK+redis](http://motor.blog.51cto.com/729413/1411199)Kibana+Logstash+Elasticsearch+Redis安装部署
  - ![redis](https://michael.bouvy.net/blog/wp-content/uploads/2013/11/logstach-archi1.png)
  - ![broker](http://s3.51cto.com/wyfs02/M00/27/7B/wKiom1NzJ3aTDYbsAAFWoFEx8mw012.jpg)
+
+
+- [](https://nkcoder.github.io/2014/11/06/elkr-log-platform-deploy-ha/) : ElasticSearch+LogStash+Kibana+Redis日志服务的高可用方案
+ - ![](https://nkcoder.github.io/images/post/ELKR-log-platform-ha.jpg)
