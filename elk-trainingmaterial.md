@@ -8,4 +8,4 @@
 
 - [曾書庭](http://www.slideshare.net/tw_dsconf/elasticsearch-kibana):  使用 Elasticsearch 及 Kibana 進行巨量資料搜尋及視覺化－曾書庭
 
-- [](http://www.slideshare.net/rueian3/elk-54163521) :  Elasitcsearch + Logstash + Kibana 日誌監控
+- [ELK](http://www.slideshare.net/rueian3/elk-54163521) :  Elasitcsearch + Logstash + Kibana 日誌監控
