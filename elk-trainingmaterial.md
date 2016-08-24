@@ -8,4 +8,8 @@
 
 - [曾書庭](http://www.slideshare.net/tw_dsconf/elasticsearch-kibana):  使用 Elasticsearch 及 Kibana 進行巨量資料搜尋及視覺化－曾書庭
 
-- [ELK](http://www.slideshare.net/rueian3/elk-54163521) :  Elasitcsearch + Logstash + Kibana 日誌監控
+- [ELK](http://www.slideshare.net/rueian3/elk-54163521) :  Elasitcsearch + Logstash + Kibana 日誌監控 : Good
+- [ELK](http://www.slideshare.net/AmazonWebServices/big-dtata-compute-case-sharing-for-media-industry?qid=e010a186-92df-40ba-ac0d-e356e409874b&v=&b=&from_search=5) :  大數據運算媒體業案例分享 (Big Data Compute Case Sharing for Media Industry) Good
+- [DevOps+Docker](http://www.slideshare.net/ChinaNetCloud/devopsdockerqcon2016?qid=382d4e45-c6b6-48ca-9be2-628edd70c4e6&v=&b=&from_search=3) : Dev-Ops与Docker的最佳实践 QCon2016 北京站演讲 
+
+- [git](http://www.slideshare.net/alantsai2007/git-48778340?qid=5cf153cd-fbda-4154-af58-87ac0a87a526&v=&b=&from_search=24) : 工程師必備第一工具 - Git
