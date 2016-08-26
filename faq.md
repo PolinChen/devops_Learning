@@ -29,3 +29,11 @@
 ![alt text][logo]
 
 [logo]: https://hackpad-attachments.imgix.net/turboteam.hackpad.com_u3H8jjdgMWx_p.527885_1466593934326_螢幕快照%202016-06-22%20上午10.57.15.png?fit=max&w=882  
+
+## ELK 的技術FAQ
+- log 為保存5年的資料， 需要導入回來
+- 大量的index 後，如何保存index 文件
+- 加主機使用可以做cluster ， 做橫向擴容
+- 中文的分詞的資料
+ - 簡體的分詞，比較沒有問題
+ - 在IT 的維運上，使用中文比較少

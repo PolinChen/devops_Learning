@@ -19,6 +19,7 @@
 
 - [centorizing log](https://sematext.com/blog/2013/09/24/presentation-on-centralizing-logs/):  with Syslog, LogStash, Elasticsearch, Kibana, and friends,
 
+- [ELK + nginx ](https://yq.aliyun.com/articles/54503) Logstash+Redis+Elasticsearch+Kibana+Nginx搭建日志分析系统  -- good example for blog
 
 ### redis infra
 
@@ -27,5 +28,5 @@
  - ![broker](http://s3.51cto.com/wyfs02/M00/27/7B/wKiom1NzJ3aTDYbsAAFWoFEx8mw012.jpg)
 
 
-- [](https://nkcoder.github.io/2014/11/06/elkr-log-platform-deploy-ha/) : ElasticSearch+LogStash+Kibana+Redis日志服务的高可用方案
+- [ELK cluster](https://nkcoder.github.io/2014/11/06/elkr-log-platform-deploy-ha/) : ElasticSearch+LogStash+Kibana+Redis日志服务的高可用方案
  - ![](https://nkcoder.github.io/images/post/ELKR-log-platform-ha.jpg)

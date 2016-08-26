@@ -1,7 +1,7 @@
 ## elk elasticsearch error status
 
 ### 問題描述
-IISlog 執行完畢後 ， elasticsearch 還在持續運行， logstash 已經正常結束了, elasticsearch  持續耗盡1個CPU 100%
+> IISlog 執行完畢後 ， elasticsearch 還在持續運行， logstash 已經正常結束了, elasticsearch  持續耗盡1個CPU 100%
 
 ```
 # sudo service elasticsearch status
@@ -10,6 +10,12 @@ IISlog 執行完畢後 ， elasticsearch 還在持續運行， logstash 已經�
 # sudo service elasticsearch status
 # sudo service elasticsearch start
 ```
+
+- test1
+- test2 
+- test3
+ - saaa
+ - bbbb
 
 此時檢查top 發現elasticsearch 在重新initial ， 大約需要20-30分鐘, 重新進入kibana 才會發揮正常，同時從top 發現 CPU 的loading 已經恢復到2-3% 的範圍中
 
