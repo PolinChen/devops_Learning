@@ -7,15 +7,21 @@
 
 - [loggly](https://www.loggly.com/product/) : See the Stories in Your Logs
 
+- [sumologic](https://help.sumologic.com/Apps/Linux_Performance_App/Collect_Logs_for_the_Linux_Performance_App) - DocHub has implemented SSO from Sumo Logic **
+
+- [logrhythm](https://logrhythm.com/) LogRhythm's security intelligence and analytics platform
 
 - [fluentd](http://www.fluentd.org/plugins): Fluentd is an open source data collector for unified logging layer
 
 - [axibase](http://axibase.com/products/) : END-TO-END REPORTING AND ANALYTICS FOR ENTERPRISE IT
 
-
 - [opstheater](http://opstheater.com/what-is-opstheater) : DevOps + Ops consulting + training
 
 - [olindata](https://www.olindata.com/) Open Source Training & Consulting
+
+- [ top40 log company](https://blog.profitbricks.com/top-47-log-management-tools/) ***
+
+- [ papertrailapp](https://papertrailapp.com/) : Frustration-free log management ****
 
 ## nmon log analystic
 
@@ -29,6 +35,8 @@
 ## ELK product
 
 - [logz.io](http://logz.io/product/#_tab-46a07adc39e61e95d84) : Enterprise-Grade ELK
+
+- [sematext logsense](https://sematext.com/logsene/) : ELK as a Service
 
 - [elastichq](http://www.elastichq.org/features.html) : elastichq
  
@@ -44,9 +52,7 @@ blog for elk
 
 -- [elk](http://www.evanlin.com/using-logstash-elsticsearch-and-kibana/) : 利用logstash，elsticsearch與kibana來分析log
 
+-- [The Pros and Cons of Open Source Logging](https://blog.logentries.com/2014/09/the-pros-and-cons-of-open-source-logging/) - logentries：
 
-image test
 
-- ![](https://hackpad-attachments.imgix.net/turboteam.hackpad.com_P2Bc9gBagUh_p.527884_1472025509338_docker.jpg?fit=max&w=882)
-
-- ![](https://www.dropbox.com/s/biop3syq4w4siv2/profiler-disk.png?dl=1)
+-- [8 Log Management Habits of Highly Effective IT Security Managers](https://blogs.manageengine.com/it-security/eventloganalyzer/2014/11/11/8-log-management-habits-of-highly-effective-it-security-managers-2.html) 
