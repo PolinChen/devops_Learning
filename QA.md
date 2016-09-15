@@ -25,3 +25,9 @@
 - [Software Quality Measurements](http://www.cs.toronto.edu/~yijun/ece450h/handouts/lecture6x4.pdf) : PDF
 
 - [效能檢測)(http://www.digitimes.com.tw/seminar/iii_20150923/2-%E6%96%B0%E5%9E%8B%E6%85%8B%E4%B8%8B%E7%9A%84%E7%B3%BB%E7%B5%B1%E6%95%88%E8%83%BD%E6%AA%A2%E6%B8%AC-V1.0%20V1.pdf)
+
+- [QA&UX](https://www.nngroup.com/articles/quality-assurance-ux/)
+
+- [Centralized Logging Solutions Overview](http://elekslabs.com/2014/05/centralized-logging-solutions-overview.html)
+![logC](http://elekslabs.com/wp-content/uploads/2014/05/ELEKSlabs_Centralized_Logging_Solutions_small.jpg)
+
