@@ -19,3 +19,9 @@
 
 - [http://techbeacon.com/top-5-software-quality-metrics-matter-right-now](http://techbeacon.com/top-5-software-quality-metrics-matter-right-now)
 ![top5](http://techbeacon.com/sites/default/files/styles/article_hero_image__2x/public/top-5-software-quality-metrics-testing-todd-decapua.jpg?itok=bEcditTq)
+
+- [Measuring Software Product Quality](http://asq.org/pub/sqp/past/vol5_issue1/van.html)
+
+- [Software Quality Measurements](http://www.cs.toronto.edu/~yijun/ece450h/handouts/lecture6x4.pdf) : PDF
+
+- [效能檢測)(http://www.digitimes.com.tw/seminar/iii_20150923/2-%E6%96%B0%E5%9E%8B%E6%85%8B%E4%B8%8B%E7%9A%84%E7%B3%BB%E7%B5%B1%E6%95%88%E8%83%BD%E6%AA%A2%E6%B8%AC-V1.0%20V1.pdf)
