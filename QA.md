@@ -40,7 +40,8 @@
 ![devop1](https://www.rallydev.com/blog/sites/rallydev.com.blog/files/DevOpsPipeGood.png)
 
 - [devops2](http://www.slideshare.net/Urbancode/enterprise-devops-scaling-build-deploy-test-release)
-![devops2](http://image.slidesharecdn.com/enterprisedevops-110802161551-phpapp02/95/enterprise-devops-scaling-build-deploy-test-release-20-728.jpg?cb=1312302157)
+
+![devopsB](http://image.slidesharecdn.com/enterprisedevops-110802161551-phpapp02/95/enterprise-devops-scaling-build-deploy-test-release-20-728.jpg?cb=1312302157)
 
 
 - [The Complete Guide to the ELK Stack](http://logz.io/learn/complete-guide-elk-stack/)
