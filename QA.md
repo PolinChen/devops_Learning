@@ -28,6 +28,22 @@
 
 - [QA&UX](https://www.nngroup.com/articles/quality-assurance-ux/)
 
-- [Centralized Logging Solutions Overview](http://elekslabs.com/2014/05/centralized-logging-solutions-overview.html)
+- [Centralized Logging Solutions Overview](http://elekslabs.com/2014/05/centralized-logging-solutions-overview.html) : logstash & Flume
 ![logC](http://elekslabs.com/wp-content/uploads/2014/05/ELEKSlabs_Centralized_Logging_Solutions_small.jpg)
 
+- [DevOps 全過程sample](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
+
+- [The Delivery Pipeline is your DevOps Signature](http://devops.com/2014/07/08/delivery-pipeline-devops-signature/)
+![pipeline](http://3ovyg21t17l11k49tk1oma21.wpengine.netdna-cdn.com/wp-content/uploads/2014/07/deliverypipeline-small.jpg)
+
+- [DevOps in the Enterprise: Continuous Delivery and Legacy Code](https://www.rallydev.com/blog/engineering/devops-enterprise-continuous-delivery-and-legacy-code)
+![devop1](https://www.rallydev.com/blog/sites/rallydev.com.blog/files/DevOpsPipeGood.png)
+
+- [devops2](http://www.slideshare.net/Urbancode/enterprise-devops-scaling-build-deploy-test-release)
+![devops2](http://image.slidesharecdn.com/enterprisedevops-110802161551-phpapp02/95/enterprise-devops-scaling-build-deploy-test-release-20-728.jpg?cb=1312302157)
+
+
+- [The Complete Guide to the ELK Stack](http://logz.io/learn/complete-guide-elk-stack/)
+
+- [Team Agility with The Splunk Platform](http://blogs.splunk.com/2016/06/07/team-agility-with-the-splunk-platform/)
+![splunk1](http://blogs.splunk.com/wp-content/uploads/2016/05/1.png)
