@@ -58,6 +58,7 @@
 
 - [plunk For Application Development, DevOps and APM](http://www.splunk.com/goto/appdev) --- good video
 ![splunk5](http://coverall2.splunk.com/web_assets/video/2014/video_hero_appdev.jpg)
+
 ![splunk5x](http://ak.c.ooyala.com/83bzNkcTpUqkHIjRui7foraRABL2cR_A/promo259406087)
 
 
