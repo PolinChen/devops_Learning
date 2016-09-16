@@ -47,3 +47,9 @@
 
 - [Team Agility with The Splunk Platform](http://blogs.splunk.com/2016/06/07/team-agility-with-the-splunk-platform/)
 ![splunk1](http://blogs.splunk.com/wp-content/uploads/2016/05/1.png)
+
+- [14 Open Source DevOps Tools We Use in Production](http://logz.io/blog/devops-tools/)
+
+- [Using Splunk for Machine Data Analytics](https://dzone.com/articles/using-splunk-machine-data)
+![splunk3](https://practicalanalytics.files.wordpress.com/2012/03/splunk.jpg?w=819&h=4530)
+
