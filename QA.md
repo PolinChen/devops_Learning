@@ -65,3 +65,11 @@
 
 - [DevOps and Splunk](http://www.slideshare.net/Splunk/devops-and-splunk)	-- good slide
 ![splunk6](http://image.slidesharecdn.com/devopshalbase-160831180215/95/devops-and-splunk-9-638.jpg?cb=1472667109)
+
+## monitor for DevOps
+
+- [A DevOps Approach to Delivering Frequent, High-Performing Releases](http://devops.com/2014/08/08/devops-approach-rapid-release-cycles/)
+ - In conclusion, aim for continuous improvement
+
+![puzzle](http://3ovyg21t17l11k49tk1oma21.wpengine.netdna-cdn.com/wp-content/uploads/2014/08/pieces.jpg)
+![loop](http://devops.com/wp-content/uploads/2014/08/Rapid-Release-Cycle-new-300x261.jpg)
