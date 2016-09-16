@@ -53,3 +53,13 @@
 - [Using Splunk for Machine Data Analytics](https://dzone.com/articles/using-splunk-machine-data)
 ![splunk3](https://practicalanalytics.files.wordpress.com/2012/03/splunk.jpg?w=819&h=4530)
 
+- [Devops Powered by Splunk](http://www.slideshare.net/Splunk/devops-powered-by-splunk)
+![splunk4](http://image.slidesharecdn.com/splunklivescottsdale-devopspoweredbysplunk-160421000627/95/devops-powered-by-splunk-13-638.jpg?cb=1461197215)
+
+- [plunk For Application Development, DevOps and APM](http://www.splunk.com/goto/appdev) --- good video
+![splunk5](http://coverall2.splunk.com/web_assets/video/2014/video_hero_appdev.jpg)
+![splunk5x](http://ak.c.ooyala.com/83bzNkcTpUqkHIjRui7foraRABL2cR_A/promo259406087)
+
+
+- [DevOps and Splunk](http://www.slideshare.net/Splunk/devops-and-splunk)	-- good slide
+![splunk6](http://image.slidesharecdn.com/devopshalbase-160831180215/95/devops-and-splunk-9-638.jpg?cb=1472667109)
