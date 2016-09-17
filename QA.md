@@ -73,3 +73,11 @@
 
 ![puzzle](http://3ovyg21t17l11k49tk1oma21.wpengine.netdna-cdn.com/wp-content/uploads/2014/08/pieces.jpg)
 ![loop](http://devops.com/wp-content/uploads/2014/08/Rapid-Release-Cycle-new-300x261.jpg)
+
+- [CONTINUOUS MONITORING](http://www.relevancelab.com/RLCatalyst/catalyst_cm.html) - CONTINUOUS MONITORING
+
+- [good blog layout](http://www.relevancelab.com/RLCatalyst/catalyst_blog.html) 
+
+- [DevOps Flow](http://blog.relevancelab.com/post/123438823775/devops-is-about-principles-practices-and)
+
+![flow1](http://66.media.tumblr.com/a71f2c8d908b545817acc95b9a4f429c/tumblr_nr3rtv10eX1uarpmpo1_r1_1280.png)
